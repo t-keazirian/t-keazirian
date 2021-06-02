@@ -17,4 +17,4 @@ HTML | CSS | JavaScript | jQuery | React | Node.js | Express | PostgreSQL | Git
 - ⚡  Fun fact: ... I am a yoga instructor!
 - :computer: I'm looking for work!
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=t-keazirian&theme=tokyonight&?count_private=true&hide=stars)](https://github.com/t-keazirian/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=t-keazirian&theme=tokyonight&?count_private=true)](https://github.com/t-keazirian/github-readme-stats)
