@@ -13,8 +13,8 @@ HTML | CSS | JavaScript | jQuery | React | Node.js | Express | PostgreSQL | Git
 - 🔭  Recent graduate from Thinkful's software engineering boot camp
 - 🌱  Growing skills in ... React Hooks & Java
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/taylor-keazirian/)
+- :computer: I'm looking for work!
 - 😄  Pronouns: ... she/her
 - ⚡  Fun fact: ... I am a yoga instructor!
-- :computer: I'm looking for work!
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=t-keazirian&theme=tokyonight&?count_private=true&hide=stars)](https://github.com/t-keazirian/github-readme-stats)
