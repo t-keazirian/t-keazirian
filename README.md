@@ -11,7 +11,7 @@ HTML | CSS | JavaScript | jQuery | React | Node.js | Express | PostgreSQL | Git
 ------------
 
 - 🌱  Currently: Full Stack Apprentice at [The Difference Engine](https://www.thedifferenceengine.io/)
-- 🔭  Recent graduate from Thinkful's software engineering boot camp
+- 🔭  Recent graduate from [Thinkful](https://www.thinkful.com/)'s software engineering boot camp
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/taylor-keazirian/)
 - :computer: I'm looking for work!
 - 😄  Pronouns: ... she/her
