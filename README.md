@@ -19,7 +19,7 @@ HTML | CSS | JavaScript | jQuery | React | Node.js | Express | PostgreSQL | Git
 - ⚡  Fun fact: ... I am a yoga instructor!
 
 ### Connect With Me:
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>](https://www.linkedin.com/in/taylor-keazirian/)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/taylor-keazirian/)
 
 
 
