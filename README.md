@@ -7,6 +7,8 @@ I'm a full stack developer residing in Chicago.
 
 HTML | CSS | JavaScript | jQuery | React | Node.js | Express | PostgreSQL | Git
 
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+
 ### About Me
 ------------
 
@@ -21,4 +23,6 @@ HTML | CSS | JavaScript | jQuery | React | Node.js | Express | PostgreSQL | Git
 ------------
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/taylor-keazirian/)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=t-keazirian&theme=tokyonight&?count_private=true&hide=stars)](https://github.com/t-keazirian/github-readme-stats)
+
+
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=t-keazirian&theme=tokyonight&?count_private=true&hide=stars)](https://github.com/t-keazirian/github-readme-stats) -->
