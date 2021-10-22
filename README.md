@@ -5,7 +5,7 @@ I'm a full stack developer residing in Chicago.
 ### Tech
 ------------
 
-HTML | CSS | JavaScript | jQuery | React | Node.js | Express | PostgreSQL | Git
+HTML | CSS | JavaScript | React | Node.js | Express | PostgreSQL | Git | AWS
 
 <!-- <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /> -->
 
