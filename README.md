@@ -12,7 +12,7 @@ HTML | CSS | JavaScript | React | Node.js | Express | PostgreSQL | Git | AWS
 ### About Me
 ------------
 
-- 🌱  Currently: Crafter Apprentice at [8th Light)(https://8thlight.com/)
+- 🌱  Currently: Crafter Apprentice at [8th Light](https://8thlight.com/)
 - 🔭  Graduate from [Thinkful](https://www.thinkful.com/)'s software engineering boot camp
 - 😄  Pronouns: ... she/her
 - ⚡  Fun fact: ... I am a yoga instructor!
