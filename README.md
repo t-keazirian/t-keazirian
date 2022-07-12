@@ -1,11 +1,11 @@
 ### Hi there!  I'm Taylor...
 
-I'm a full stack developer residing in Chicago.
+I'm a software developer residing in Chicago.
 
 ### Tech
 ------------
 
-JavaScript | React | Node.js | Python | HTML | CSS | PostgreSQL | Git | AWS
+JavaScript | React | Node.js | Python | C# | HTML | CSS | PostgreSQL | Git | AWS
 
 <!-- <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /> -->
 
