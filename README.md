@@ -1,6 +1,6 @@
 ### Hi there!  I'm Taylor...
 
-I'm a software developer residing in Chicago.
+I'm a software developer currently residing in Montana.
 
 ### Tech
 ------------
@@ -12,7 +12,7 @@ JavaScript | React | Node.js | Python | C# | HTML | CSS | PostgreSQL | Git | AWS
 ### About Me
 ------------
 
-- 🌱  Currently: Crafter Apprentice at [8th Light](https://8thlight.com/)
+- 🌱  Currently: Crafter at [8th Light](https://8thlight.com/)
 - 🔭  Graduate from [Thinkful](https://www.thinkful.com/)'s software engineering boot camp
 - 😄  Pronouns: ... she/her
 - ⚡  Fun fact: ... I am a yoga instructor!
